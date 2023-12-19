@@ -1,3 +1,3 @@
 This is my first repository
 <br>
-Author- Hemant Issar(developer)
+Author- Hemant Issar( Web developer)
